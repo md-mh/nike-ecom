@@ -1,0 +1,35 @@
+/* import font  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2{
+    font-family: 'Bebas Neue', cursive;
+}
+h3{
+    font-weight: 900;
+}
+header{
+    background-color: #FFF9F4;
+}
+img{
+    width: 100%;
+}
+.nike-btn{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 7px;
+}
+.pro-bg{
+    background: #F1F1F1;
+    height: 327px;
+}
+.radius-10{
+    border-radius: 10px;
+}
+.icon{
+    width: 70px;
+}
